@@ -1,0 +1,36 @@
+--- Craft Anything 0.6.0: a run started 2026-11-10 17:45:41 UTC ---
+17:45:41 stage Getting the builder ready…
+17:45:48 stage Building the first version…
+17:45:48 note  Reading the investigation so far…
+17:46:16 ERROR Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+17:46:16 ERROR The service is having trouble. Try again soon, or use another backend.
+17:46:16 note  The builder's turn ended (0 tokens in, 0 out)
+17:46:16 stage The builder stopped (Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later). Picking up where it left off…
+17:47:23 ERROR Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+17:47:23 ERROR The service is having trouble. Try again soon, or use another backend.
+17:47:23 note  The builder's turn ended (0 tokens in, 0 out)
+17:47:23 stage The builder stopped (Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later). Picking up where it left off…
+17:48:29 ERROR Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+17:48:29 ERROR The service is having trouble. Try again soon, or use another backend.
+17:48:29 note  The builder's turn ended (0 tokens in, 0 out)
+17:48:29 stage The builder stopped (Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later). Picking up where it left off…
+17:50:11 ERROR Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+17:50:11 ERROR The service is having trouble. Try again soon, or use another backend.
+17:50:11 note  The builder's turn ended (0 tokens in, 0 out)
+17:50:11 ERROR Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. The service is having trouble. Try again soon, or use another backend.
+--- Craft Anything 0.6.0: a run started 2026-11-10 17:51:11 UTC ---
+17:51:11 stage Getting the builder ready…
+17:51:13 stage Building the first version…
+17:51:13 note  Reading the investigation so far…
+17:56:13 ERROR Gemini (Google AI Studio): Gemini took the request but didn't start answering in time.
+17:56:13 ERROR A server busy with another tool's work may need longer. To wait longer, set timeout_secs (in seconds) for this AI under [[ai.backends]] in config.toml; the wait is five minutes unless set.
+17:56:13 note  The builder's turn ended (0 tokens in, 0 out)
+17:56:13 stage The builder stopped (Gemini (Google AI Studio): Gemini took the request but didn't start answering in time.). Picking up where it left off…
+17:57:22 ERROR Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+17:57:22 ERROR The service is having trouble. Try again soon, or use another backend.
+17:57:22 note  The builder's turn ended (0 tokens in, 0 out)
+17:57:22 stage The builder stopped (Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later). Picking up where it left off…
+18:01:10 ERROR Gemini (Google AI Studio): Gemini answered 503: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+18:01:10 ERROR The service is having trouble. Try again soon, or use another backend.
+18:01:10 note  The builder's turn ended (0 tokens in, 0 out)
+18:01:10 stage Paused.
